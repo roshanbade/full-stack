@@ -1,0 +1,36 @@
+body {
+	margin: 24px;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	background:#C9FFE5;
+}
+
+section {
+	padding: 0px;
+	position: relative;
+}
+
+ul {
+	list-style-type: square;
+}
+
+.sub-title{
+	color: #6699CC;
+}
+
+li {
+	color: #253529;
+}
+
+ol {
+	list-style-type: i;
+}
+
+tr {
+	color: #3B3C36;
+}
+
+img {
+	size: 50px;
+}
